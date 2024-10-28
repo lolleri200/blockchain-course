@@ -1,0 +1,26 @@
+a) How would you compare Cyber Kill Chain and ATT&CK Enterprise matrix? Who do you think could benefit from these models?
+
+  - The usage of the cyber kill chain is often used to help understanding and stopping varius external attacks before the opposer may archieve their goals. And then ATT&CK enterprise matrix usage is often used in target of the opposers behavior, such as post-compromised 
+    tactics and also with network movement and other envasion techniques. (Cyber Kill Chain vs MITRE ATT&CK: Best Comparison. 2024)
+
+  - With cyber kill chain the attcker is often focused on gaining profit from sell the data that it succeded to gather. The end goal of most cyber attacks is laways the financial gain. And with ATT&CK enterprise matrix the attacker is mostly interested of gaining access of the 
+    businesses networking, work phones, and other industrial control systems with the benefit of financial gain by stealing and selling the companies data gathered by it's users. (Cyber Kill Chain vs MITRE ATT&CK: Best Comparison. 2024)
+
+b) Pick a security incident and learn about it. Write briefly about it. Point out the concepts of threat actor, exploit, vulnerability and (business) impact. (You can find writeups about security incidents from Darknet Diaries and Krebs)
+
+  - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sources:
+Cyber Kill Chain vs MITRE ATT&CK: Best Comparison. 2024. Readable at https://www.stationx.net/cyber-kill-chain-vs-mitre-attack/ Read: 28.10.2024
