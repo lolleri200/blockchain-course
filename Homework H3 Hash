@@ -1,4 +1,4 @@
-x)
+x) I read the Karvinen 2022: Cracking Passwords with Hashcat documentation in preparation for the H3 assigment it was really interesting to learn about using hashes.
 
 a) I started experiencing with different hashes with the command echo -n "hello asdf"|sha256sum to get different kind of hashes. I noticed that the longer the hash then it was easier to get a hash that starts with a zero.
 
