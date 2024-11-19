@@ -41,4 +41,19 @@ x) -The introduction of the paper of Bitcoin: A Peer-to-Peer Electronic Cash Sys
   Source: https://git.dhimmel.com/bitcoin-whitepaper/
 
 
-a) 
+a) I created a wallet using Electrum. I had to save the seed to a location where only I have access to. Photos saved here: https://imgur.com/a/8QiZKpD 
+
+b) I used Testnet demo to receive fake BTC from a testnet Bitcoin faucet. Photos saved here: https://imgur.com/a/8QiZKpD 
+
+c) I sent a random amount of BTC to another wallet that has the last two digits as 73. Photos saved here: https://imgur.com/a/8QiZKpD 
+
+d) I sent bitcoin back to a Testnet Bitcoin Faucet wallet. Photos saved here: https://imgur.com/a/8QiZKpD 
+
+e) I went to  BTC block scanning site to analyse a BTC block. The Bitcoin block height measures how many blocks have preceded it on the Bitcoin protocol. The status indicates if the chain has received the BTC. The time stamp shows the date and time when the BTC was
+   received. The size describes the size of the BTC block in kilobytes. The virtual size describes the virtual size of the BTC in virtual kilobytes. The weight unit discribes the size of all the transactions in teh same block. The version describes the number of the 
+   BTC protocol being used. The Merkle root describes how much the 32-byte field contains a 256-bit hash of the root of the Merkle tree of all the transactions in the current block. The bits describes the 4-byte field contains the target difficulty of the current 
+   Bitcoin block which determines how difficult the target hash will be to find. The difficulty shows the version level of the difficoulty of the block. And the nonce shows that 4-byte field contains a 32-bit number that a miner must alter in order to correctly 
+   solve the computational puzzle for the current block. Photos saved here: https://imgur.com/a/8QiZKpD 
+
+
+   Source: https://www.gemini.com/cryptopedia/what-is-block-in-blockchain-bitcoin-block-size#section-bitcoin-block-headers-and-mining
