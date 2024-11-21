@@ -14,9 +14,9 @@ x) Started watching the HelSec stream and preparing to take notes from the prese
 - Eu Legislation about EU has a new legslative framework. The Ai services should have product safety requirments, data needs to haveGDPR requirments and follow the cyber security resilience act.
 
 
-Heikki ”zokol” Juva - State of Union:
+19:20 - Heikki ”zokol” Juva - State of Union:
 
-- He is focusing on radio equipment directive in network security, personal information of the users and financial misuse.
+- The speaker Heikki is focusing on radio equipment directive in network security, personal information of the users and financial misuse.
 - Devices classification has three requirments. If the device is connected to the internet it should compline RED part 1 (1803-1) requirments, If the devuce collects personal data and is a smart toy or a childcare equipment it should compline RED part 2 (18031-2)     
   requirmenrts and if the device handles financial assets (money, crypto) it should RED part 2 (18031-3)
 
@@ -26,3 +26,10 @@ Heikki ”zokol” Juva - State of Union:
 - Common issues with devices are mostly that your data won't be removed, companies sharing your private information with 3rd party companies and also a complex manufacturing, seller doesn't always know how the device even works.
 
 
+My own comments, ideas and questions:
+ - I think it is a good thing that ENISA follows the GDPR protocol and  demands that data privacy should be respcted and I wish more people would follow these guidelines.
+ - I think it is very concerning that companies don't remove the costumers data and that they are selling private information of the users to 3rd parties. There should be laws that would prevent this kind of behavior without the costumers permission.
+
+ - My idea to make products more secure would be to enforce fingerprint recognizing to more device to protect your data incase it would get stolen.
+
+ - If I was at the HelSec I would ask the presenters that how would they make products and services more secure or ho would they improve the security on current devices?
