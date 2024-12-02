@@ -18,4 +18,7 @@ x) Tor: The Second-Generation Onion Router:
       - Not Steganographic, that means that Tor does not attempt to conceal the identity of the users connecting to the network, so it focuses on preventing traffic analysis, and not hiding who is connected to it.
 
   - Adversary Model:
-     - 
+    
+     - Tor will assume an adversary capable of monitoring traffic, controlling some routers, and launching various different attacks like traffic analysis, timing attacks, and compromising routers.
+     - Tor is focused on defending traffic analysis attacks, rather than more sophisticated adversaries who might try to fully compromise user identities through end-to-end correlations.
+     - Tor aims attacks harder, but not impossible.
