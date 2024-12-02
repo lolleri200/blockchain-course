@@ -21,4 +21,28 @@ x) Tor: The Second-Generation Onion Router:
     
      - Tor will assume an adversary capable of monitoring traffic, controlling some routers, and launching various different attacks like traffic analysis, timing attacks, and compromising routers.
      - Tor is focused on defending traffic analysis attacks, rather than more sophisticated adversaries who might try to fully compromise user identities through end-to-end correlations.
-     - Tor aims attacks harder, but not impossible.
+     - Tor aims to make attacks harder, but not impossible.
+
+   De-Anonymisation Attacks on Tor: A Survey:
+   
+   - Anonymity networks like Tor are used to protect online privacy. Tor is the most popular such network that, ensures anonymity for both users and services.
+   - However, Tor has also been misused for illegal activities, such as hosting drug-selling sites, botnet control servers, and censored adult content. This has led governments and law enforcement agencies to explore ways of de-anonymize Tor users,
+     disrupt its operations, and bypass its censorship evasion.
+   - This kind of survey paper reviews are known attacks on Tor, identifies de-anonymization techniques, and analyzes their effectiveness. It also suggests improvements to Tor and to counter this kind of attacks.
+
+   - Over the past few decades, online services have significantly impacted daily life, raising concerns about how to browse the Internet while maintaining privacy.
+   - Privacy is especially crucial for whistle-blowers, such as citizens of totalitarian governments, and sensitive communications within military and business organizations. This need has driven the development of anonymous communication systems.
+   - Early systems like Mix-Net, Babel, and Mixminion have faced challenges with high latency, and were not widely adopted. They have now been replaced by low-latency systems that are more practical for current use cases.
+
+   - Tor is a widely used anonymity network that is employing onion routing. Tor is an overlay network, that is built on the Transmission Control Protocol, where the users connections are routed through three voluntary relays to reach a destination servers.
+     These key components are:
+     
+     - Onion Proxy, that is a small software installed on the user's device that facilitates communication with the directory servers, establishes Tor network connections, and handles user application traffic. And it is also called the Tor client.
+     - Directory Servers are referred as Trusted servers that maintain and share information about the network’s status, including relay availability, and also exit policies. The online proxy downloads of this consensus document to select relays and establish a secure
+       communication circuit.
+
+
+Sources:
+https://css.csail.mit.edu/6.858/2022/readings/tor-design.pdf
+https://ieeexplore.ieee.org/ielx7/9739/9621320/09471821.pdf
+
