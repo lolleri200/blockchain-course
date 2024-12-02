@@ -60,17 +60,24 @@ a) I installed the Tor browser using the wget https://www.torproject.org/dist/to
 
 b) I decided to use a Tor search engine called Ahmija.
    <img width="748" alt="image" src="https://github.com/user-attachments/assets/c0e1131b-9d20-4ac4-8de1-a6e30ccab074">
+   
    I was searching for human rights or civil rights organization with a Tor search engine:
+   
    <img width="520" alt="image" src="https://github.com/user-attachments/assets/1ce44be7-1dd9-4fd6-9345-b31ed6be93f1">
    <img width="867" alt="image" src="https://github.com/user-attachments/assets/4aa90dd5-9350-4fdc-99dc-f9725afcfc93">
    And found different archived news.
+   
    I searched for Marketplaces in the Tor search engine and the first page I opened has drugs for sale right at the front page...
+   
    <img width="1031" alt="image" src="https://github.com/user-attachments/assets/dc8dd6ea-6d63-42a7-b729-558251223473">
    Next I searched for Fraud in the Tor search engine and ended up at the Dark shop that is there since 2015. The page seems to be selling fake money.
+   
    <img width="742" alt="image" src="https://github.com/user-attachments/assets/6fac70fd-e082-4818-9a40-ce8a2ed0805d">
    Next I searched for Forum in the Tor search engine and found a Forum called Dark Rewviews. And went to a thread called DEEP Questions and Answers.
+   
    <img width="920" alt="image" src="https://github.com/user-attachments/assets/38cdcb5d-1211-49bc-9c3b-1b36d91e7893">
    Most of the threads seems to be ads for a market, hacking services and Bitcoin selling threads.
+   
    <img width="1406" alt="image" src="https://github.com/user-attachments/assets/aa9b9f21-80fc-4320-93ad-66e07be996fd">
    
 
