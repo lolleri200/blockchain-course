@@ -80,16 +80,6 @@ b) I decided to use a Tor search engine called Ahmija.
    
    <img width="1406" alt="image" src="https://github.com/user-attachments/assets/aa9b9f21-80fc-4320-93ad-66e07be996fd">
    
+c) The webpages in Tor search engine do not have a typical web address, they have an encrypted web address. The Tor usersends a public key to the Tor website and if it matches with the correct hash the user may enter the Tor website.
 
-   
-
-
-
-   
-   
-   
-
-   
-
-   
-
+d) The PhishStick is a USB-stick that has commands for the computer that execute as soon it is plugged in the computer and run spesific commands in the background so the user does not notice and this is distributed to the hacker by the internet within the same network.
