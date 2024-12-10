@@ -11,4 +11,7 @@ x) My summary about: The importance of asset visibility in the detection and rem
 
     Source for the article: [https://www.infosecinstitute.com/resources/vulnerabilities/intro-to-asset-visibility-and-vulnerability-remediation](https://www.infosecinstitute.com/resources/vulnerabilities/intro-to-asset-visibility-and-vulnerability-remediation/)
 
-a) 
+a) Creating an alert for new peer reviewed articles
+
+  - I subsrcribed to the alert on the Infosec website for new article alerts at: [https://www.infosecinstitute.com/form/subscribe/?utm_source=resources&utm_medium=infosec%20network&utm_campaign=cyber%20work%20newsletter&utm_term=tags&utm_content=sidebar%20bottom
+](https://www.infosecinstitute.com/form/subscribe/?utm_source=resources&utm_medium=infosec%20network&utm_campaign=cyber%20work%20newsletter&utm_term=tags&utm_content=sidebar%20bottom)
